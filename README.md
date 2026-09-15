@@ -3,8 +3,12 @@
 </h1>
 
 <h3 align="center">
-  Software Engineer • Flutter & App Development
+  Software Engineer • Flutter Developer • AI Engineer
 </h3>
+
+<p align="center">
+  Building scalable mobile applications and exploring AI, RAG & intelligent systems.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muzamil995&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -13,13 +17,20 @@
 ---
 
 ### 🚀 About Me
-- 👯 Open to collaborate on **Mobile App Development projects**
-- 💬 Ask me about **Flutter, Firebase & App Architecture**
+
+- 💻 Software Engineer focused on **Mobile App Development & AI Engineering**
+- 📱 Experienced in **Flutter, Firebase & scalable app architecture**
+- 🤖 Currently exploring **Generative AI, RAG (Retrieval-Augmented Generation) & AI Agents**
+- 🧠 Building AI systems using **Python, LLMs, Embeddings, Vector Databases & Semantic Search**
+- 🔍 Interested in building **AI-powered applications and intelligent developer tools**
+- 👯 Open to collaborate on **Mobile, AI & RAG projects**
+- 💬 Ask me about **Flutter, Firebase, App Architecture, RAG & AI Applications**
 - 📫 Reach me at **muzammilahmed5711@gmail.com**
 
 ---
 
 ### 🌐 Connect With Me
+
 <p align="left">
   <a href="mailto:muzammilahmed5711@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -32,27 +43,45 @@
 ---
 
 ### 🛠 Tech Stack
+
+#### 📱 Mobile & Application Development
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="42"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="42"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42"/>
 </p>
+
+#### 🤖 AI & RAG
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42"/>
+</p>
+
+**AI:** Generative AI • LLMs • Prompt Engineering • RAG • Embeddings • Semantic Search  
+**RAG:** Document Processing • Chunking • Vector Search • Retrieval • Context Injection  
+**AI Systems:** AI Agents • AI Pipelines • LLM Applications • Knowledge-Based Systems
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muzamil995&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil995" />
-</p>
+### 🧠 Currently Learning
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzamil995&layout=compact" />
-</p>
-
----
-
-⭐ *Building clean, scalable & user-focused mobile apps*
+```text
+Generative AI
+     ↓
+LLMs
+     ↓
+Embeddings & Semantic Search
+     ↓
+Vector Databases
+     ↓
+RAG Systems
+     ↓
+AI Agents
+     ↓
+Production AI Applications
