@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  Building scalable mobile applications and exploring AI, RAG & intelligent systems.
+  Building scalable mobile applications and intelligent AI-powered systems.
 </p>
 
 <p align="center">
@@ -19,12 +19,14 @@
 ### 🚀 About Me
 
 - 💻 Software Engineer focused on **Mobile App Development & AI Engineering**
-- 📱 Experienced in **Flutter, Firebase & scalable app architecture**
-- 🤖 Currently exploring **Generative AI, RAG (Retrieval-Augmented Generation) & AI Agents**
-- 🧠 Building AI systems using **Python, LLMs, Embeddings, Vector Databases & Semantic Search**
-- 🔍 Interested in building **AI-powered applications and intelligent developer tools**
+- 📱 Experienced in **Flutter, Firebase & scalable application architecture**
+- 🤖 **1+ year of experience in AI Engineering**
+- 🔎 Experienced in **RAG (Retrieval-Augmented Generation), LLMs & Semantic Search**
+- 🧠 Building intelligent applications using **LLMs, Embeddings & AI Pipelines**
+- 🗄️ Experienced with **Vector Databases & Knowledge Retrieval**
+- 🤝 Interested in **AI Agents, RAG Systems & AI-powered applications**
 - 👯 Open to collaborate on **Mobile, AI & RAG projects**
-- 💬 Ask me about **Flutter, Firebase, App Architecture, RAG & AI Applications**
+- 💬 Ask me about **Flutter, Firebase, App Architecture, RAG & AI Engineering**
 - 📫 Reach me at **muzammilahmed5711@gmail.com**
 
 ---
@@ -44,7 +46,7 @@
 
 ### 🛠 Tech Stack
 
-#### 📱 Mobile & Application Development
+#### 📱 Mobile & Software Development
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
@@ -55,7 +57,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42"/>
 </p>
 
-#### 🤖 AI & RAG
+**Development:** Flutter • Dart • C • Firebase • REST APIs • Clean Architecture • MVC • Repository Pattern
+
+---
+
+#### 🤖 AI Engineering
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
@@ -63,25 +69,35 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42"/>
 </p>
 
-**AI:** Generative AI • LLMs • Prompt Engineering • RAG • Embeddings • Semantic Search  
-**RAG:** Document Processing • Chunking • Vector Search • Retrieval • Context Injection  
-**AI Systems:** AI Agents • AI Pipelines • LLM Applications • Knowledge-Based Systems
+**AI:**  
+Generative AI • LLMs • AI Engineering • Prompt Engineering • AI Agents
+
+**RAG:**  
+Retrieval-Augmented Generation • Document Processing • Chunking • Embeddings • Semantic Search • Context Retrieval
+
+**AI Systems:**  
+Vector Databases • Knowledge Bases • LLM Pipelines • Tool Calling • Intelligent Workflows
 
 ---
 
-### 🧠 Currently Learning
+### 🧠 AI Engineering Experience
 
 ```text
-Generative AI
-     ↓
-LLMs
-     ↓
-Embeddings & Semantic Search
-     ↓
-Vector Databases
-     ↓
-RAG Systems
-     ↓
-AI Agents
-     ↓
-Production AI Applications
+AI Engineering
+      │
+      ├── LLM Applications
+      │
+      ├── RAG Systems
+      │     ├── Document Processing
+      │     ├── Chunking
+      │     ├── Embeddings
+      │     ├── Vector Search
+      │     └── Context Retrieval
+      │
+      ├── Semantic Search
+      │
+      ├── Vector Databases
+      │
+      ├── AI Agents
+      │
+      └── Intelligent AI Workflows
