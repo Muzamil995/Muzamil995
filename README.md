@@ -20,7 +20,7 @@
 
 - 💻 Software Engineer focused on **Mobile App Development & AI Engineering**
 - 📱 Experienced in **Flutter, Firebase & scalable application architecture**
-- 🤖 **1+ year of experience in AI Engineering**
+- 🤖 **2+ year of experience in AI Engineering**
 - 🔎 Experienced in **RAG (Retrieval-Augmented Generation), LLMs & Semantic Search**
 - 🧠 Building intelligent applications using **LLMs, Embeddings & AI Pipelines**
 - 🗄️ Experienced with **Vector Databases & Knowledge Retrieval**
